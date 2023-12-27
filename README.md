@@ -11,17 +11,12 @@ Air-Conditioner
 
 硬件由产品设计、外观设计组成
 
+#### 注意事项
+未经允许，禁止转载、复制、贩卖、或用于其他商业行为。
 
-#### 安装教程
+#### 参与贡献
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  noah-leo              &#x2003;         e-mail:noah-leo@outlook.com    &#x2003;    wechat:noah_leo_wechat
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 
